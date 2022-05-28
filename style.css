@@ -1,0 +1,34 @@
+body{
+  min-height: 2000px;
+}
+.jumbotron{
+  padding: 2rem 1rem;
+}
+.container{
+  background: linear-gradient(90deg, #fffb00 50%, #b8bdbc 40.1%);
+  
+}
+.container h2{
+  color: blue;
+}
+.container h4{
+  padding-top: 5px;
+}
+.form-control1{
+  background: linear-gradient(90deg,#000 70%,#fff 30%);
+  width: 300px;
+  height: 10px;
+  border: none;
+}
+.form-control2{
+  background: linear-gradient(90deg,#000 60%,#fff 40%);
+  width: 300px;
+  height: 10px;
+  border: none;
+}
+.form-control3{
+  background: linear-gradient(90deg,#000 80%,#fff 20%);
+  width: 300px;
+  height: 10px;
+  border: none;
+}
